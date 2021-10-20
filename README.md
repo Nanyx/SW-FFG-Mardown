@@ -6,7 +6,7 @@ Simply _clone_ this repo or take the _release_ and start editing the _README.md_
 
 ## Dice
 
-| Name | Code |
+| Dice | Code |
 |:-----|:---|
 | Setback | `<i class="ffg-d6 c-k"></i>` |
 | Boost | `<i class="ffg-d6 c-b"></i>` |
@@ -19,22 +19,22 @@ Simply _clone_ this repo or take the _release_ and start editing the _README.md_
 
 ## Symbols
 
-| Name | Code |
+| Symbol | Code |
 |:-----|:---|
+| Disadvantage | `<i class="ffg-di"></i>` |
+| Advantage | `<i class="ffg-ad"></i>` |
+| Failiure | `<i class="ffg-fa"></i>` |
+| Success | `<i class="ffg-su"></i>` |
+| Despair | `<i class="ffg-de"></i>` |
+| Triumph | `<i class="ffg-tr"></i>` |
 | Dark force point | `<i class="ffg-fo c-k"></i>` |
 | Light force point | `<i class="ffg-fo lp"></i>` |
 | Any force point | `<i class="ffg-fp"></i>` |
-| Advantage | `<i class="ffg-ad"></i>` |
-| Disadvantage | `<i class="ffg-di"></i>` |
-| Success | `<i class="ffg-di"></i>` |
-| Failiure | `<i class="ffg-fa"></i>` |
-| Triumph | `<i class="ffg-ad"></i>` |
-| Despair | `<i class="ffg-di"></i>` |
 
 
-## Showreel (v1.0.x)
-<img src="./img/symbols.gif">
+## Showreel
 <img src="./img/dice.gif">
+<img src="./img/symbol.gif">
 
 
 ## Special thanks
