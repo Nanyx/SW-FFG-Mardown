@@ -9,7 +9,7 @@ Simply _clone_ this repo or take the _release_ and start editing the _README.md_
 | Name | Code |
 |:-----|:---|
 | Setback | `<i class="fas fa-dice-d6 c-k"></i>` |
-| Boost | `<i class="fas fa-dice-d6 c-k"></i>` |
+| Boost | `<i class="fas fa-dice-d6 c-b"></i>` |
 | Difficulty | `<i class="fas fa-dice-d8 c-p"></i>` |
 | Ability | `<i class="fas fa-dice-d8 c-g"></i>` |
 | Challenge | `<i class="fas fa-dice-d12 c-r"></i>` |
