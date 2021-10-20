@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="./tree/main/icons/css/icons.min.css"/>
+<link rel="stylesheet" type="text/css" href="./icons/css/icons.min.css"/>
 
 # SW-FFG-Mardown
 Simple boilerplate for MD file that could use the Star Wars FFG symbols
