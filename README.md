@@ -1,7 +1,8 @@
 <link rel="stylesheet" type="text/css" href="./icons/css/icons.min.css"/>
 
 # SW-FFG-Mardown
-Simple boilerplate for MD file that could use the Star Wars FFG symbols
+Simple boilerplate for MD file that could use the Star Wars FFG symbols.   
+Simply _clone_ this repo and start using it with your __Markdown__ editor.
 
 ## Dice
 
@@ -31,4 +32,4 @@ Simple boilerplate for MD file that could use the Star Wars FFG symbols
 | <i class="icon-de"></i> | Despair | `<i class="icon-di"></i>` |
 
 ## Special thanks
-Nymrodiel my guy and savior !
+Nymrodel -_Lord of vector_
