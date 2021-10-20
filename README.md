@@ -27,7 +27,7 @@ Simply _clone_ this repo or take the _release_ and start editing the _README.md_
 | Advantage | `<i class="icon-ad"></i>` |
 | Disadvantage | `<i class="icon-di"></i>` |
 | Success | `<i class="icon-di"></i>` |
-| Failiure | `<i class="icon-fp"></i>` |
+| Failiure | `<i class="icon-fa"></i>` |
 | Triumph | `<i class="icon-ad"></i>` |
 | Despair | `<i class="icon-di"></i>` |
 
