@@ -3,7 +3,7 @@
 # SW-FFG-Mardown
 Simple boilerplate for MD file that could use the Star Wars FFG symbols.   
 Simply _clone_ this repo and start using it with your __Markdown__ editor.
-> Sorry the element not appearing here due to guthub security reason on _css_ and _svg_ files.
+> Sorry the elements not appearing here due to guthub security reason on _css_ and _svg_ files.
 
 ## Dice
 
