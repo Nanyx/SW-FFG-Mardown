@@ -2,7 +2,7 @@
 
 # SW-FFG-Mardown
 Simple boilerplate for MD file that could use the Star Wars FFG symbols.   
-Simply _clone_ this repo and start using it with your __Markdown__ editor.
+Simply _clone_ this repo and start editing the _README.md_ file with any __Markdown__ editor.
 
 ## Dice
 
