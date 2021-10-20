@@ -32,5 +32,9 @@ Simply _clone_ this repo and start using it with your __Markdown__ editor.
 | Triumph | `<i class="icon-ad"></i>` |
 | Despair | `<i class="icon-di"></i>` |
 
+## Showreel
+<img src="./img/dice.gif">
+<img src="./img/symbols.gif">
+
 ## Special thanks
 Nymrodel -_Lord of vector_
