@@ -29,3 +29,6 @@ Simple boilerplate for MD file that could use the Star Wars FFG symbols
 | <i class="icon-fa"></i> | Failiure | `<i class="icon-fp"></i>` |
 | <i class="icon-tr"></i> | Triumph | `<i class="icon-ad"></i>` |
 | <i class="icon-de"></i> | Despair | `<i class="icon-di"></i>` |
+
+## Special thanks
+Nymrodiel my guy and savior !
