@@ -1,0 +1,21 @@
+@font-face{font-family:sw-ffg;src:url(fonts/sw-ffg.eot?j5ielj);src:url(fonts/sw-ffg.eot?j5ielj#iefix) format('embedded-opentype'),url(fonts/sw-ffg.ttf?j5ielj) format('truetype'),url(fonts/sw-ffg.woff?j5ielj) format('woff'),url(fonts/sw-ffg.svg?j5ielj#sw-ffg) format('svg');font-weight:400;font-style:normal;font-display:block}
+[class*=" ffg-"],[class^=ffg-]{font-family:sw-ffg!important;speak:never;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.ffg-fo:before{content:"\f111"}
+.ffg-d12:before{content:"\f6ce"}
+.ffg-d6:before{content:"\f6d1"}
+.ffg-d8:before{content:"\f6d2"}
+.ffg-ad:before{content:"\e900"}
+.ffg-de:before{content:"\e901"}
+.ffg-di:before{content:"\e902"}
+.ffg-fa:before{content:"\e903"}
+.ffg-su:before{content:"\e904"}
+.ffg-tr:before{content:"\e905"}
+.ffg-fp{display:inline-block;width:1em;height:1em;stroke-width:0;stroke:currentColor;fill:currentColor;background:url(svg/fp.svg);background-size:1em 1em}
+.c-y{color:#ffe900}
+.c-g{color:#51b94a}
+.c-b{color:#a2d8f4}
+.c-r{color:#e51836}
+.c-p{color:#502380}
+.c-k{color:#000}
+.c-w{color:#d4d4d4}
+.lp{color:#fff;border-radius:100%;border:2px solid #000}
